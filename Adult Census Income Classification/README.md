@@ -179,7 +179,3 @@ Adult Census Income Classification/
 | **Email** | tarun.23bce11789@vitbhopal.ac.in |
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ using Python & Scikit-learn</i>
-</p>
