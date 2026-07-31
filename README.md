@@ -150,7 +150,3 @@ Trains an autonomous spacecraft agent to safely land on a designated pad using *
 ```
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ by Tarun Kandwal</i>
-</p>
