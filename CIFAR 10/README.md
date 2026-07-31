@@ -186,7 +186,3 @@ CIFAR 10/
 ```
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ using Python & TensorFlow</i>
-</p>
