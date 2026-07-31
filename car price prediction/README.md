@@ -227,7 +227,3 @@ car price prediction/
 ```
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ using Python, Scikit-learn & Flask</i>
-</p>
