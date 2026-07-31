@@ -91,7 +91,7 @@ A content-based movie recommendation engine using **TF-IDF Vectorization** and *
 
 ---
 
-### 7. 🤖 [RAG Chatbot — Amazon Quarterly Report](./Rag_Chatbot/)
+### 7. 🤖 [RAG Chatbot — Amazon Quarterly Report]([./Rag_Chatbot](https://github.com/TarunKandwal10/MPOnline_AIML_Projects/tree/main/RAG_Model))
 
 A Retrieval-Augmented Generation chatbot that answers questions about Amazon's 10-Q quarterly report, grounded in the actual filing text with **citations**.
 
