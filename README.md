@@ -26,7 +26,7 @@ A collection of **9 projects** spanning Machine Learning, Deep Learning, Compute
 | 4 | [CIFAR-10 Image Classification](./CIFAR%2010/) | DL — Computer Vision | CNN, Data Augmentation, BatchNorm | — |
 | 5 | [LFW Face Recognition](./LFW%20face%20recognition/) | DL — Face Recognition | CNN, LFW Dataset, 7-class face ID | — |
 | 6 | [Movie Recommendation System](./Movie-Recommendation-System/) | ML — NLP / Recommender | TF-IDF, Cosine Similarity, Flask | — |
-| 7 | [RAG Chatbot (Amazon 10-Q)]([./Rag_Chatbot/](https://github.com/TarunKandwal10/MPOnline_AIML_Projects/tree/main/RAG_Model)) | NLP — RAG | FastAPI, FAISS, Gemini AI, Sentence-Transformers | — |
+| 7 | [RAG Chatbot (Amazon 10-Q)](./RAG_Model/) | NLP — RAG | FastAPI, FAISS, Gemini AI, Sentence-Transformers | — |
 | 8 | [CartPole (PPO)](./cartpole/) | RL — Control | Stable-Baselines3, PPO, Gymnasium | — |
 | 9 | [Lunar Lander (DQN)](./lunar%20lander/) | RL — Control | Stable-Baselines3, DQN, Box2D | — |
 
@@ -91,7 +91,7 @@ A content-based movie recommendation engine using **TF-IDF Vectorization** and *
 
 ---
 
-### 7. 🤖 [RAG Chatbot — Amazon Quarterly Report]([./Rag_Chatbot](https://github.com/TarunKandwal10/MPOnline_AIML_Projects/tree/main/RAG_Model))
+### 7. 🤖 [RAG Chatbot](./RAG_Model/)
 
 A Retrieval-Augmented Generation chatbot that answers questions about Amazon's 10-Q quarterly report, grounded in the actual filing text with **citations**.
 
